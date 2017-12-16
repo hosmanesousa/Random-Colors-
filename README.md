@@ -19,9 +19,13 @@ When you guess the correct colors, all remaning colors will adopt that right col
 
 # Possible improvements
 
-- Adding the number of guess tries
+- restrict the number of guesses 
+
+Easy mode: 1 
+
+Hard mode: 3
 
 
-# Demon 
+# Demo
 
 https://codepen.io/hosmanesousa/project/editor/ALpWvo
