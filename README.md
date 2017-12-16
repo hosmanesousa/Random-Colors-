@@ -19,11 +19,11 @@ When you guess the correct colors, all remaning colors will adopt that right col
 
 # Possible improvements
 
-- restrict the number of guesses 
+** Restrict the number of guesses 
 
-Easy mode: 1 
+Easy mode: 1 guess to get the right color
 
-Hard mode: 3
+Hard mode: 3 guesses to get the right color
 
 
 # Demo
