@@ -28,7 +28,7 @@ Hard mode: 3 guesses to get the right color
 
 ** Variables
 
-Declaring variables with let keyword is okay, but declaring them const instead would have been more appropriate in some cases.
+Declaring variables with let keyword is okay, but declaring them with const instead would have been more appropriate in some cases.
 
 
 
